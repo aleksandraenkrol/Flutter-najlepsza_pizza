@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26065935179",
+    "project_id": "i-like-food77",
+    "storage_bucket": "i-like-food77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26065935179:android:e47be836fd381e4ef7a6ce",
+        "android_client_info": {
+          "package_name": "com.aleksandrakrol.najlepsza_pizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26065935179-hgr6na3mjc4g36tsjhi98f34d6f6ns76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCPNN9RPcb_WE2yknkTSGKwUwf3rbtZI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26065935179-hgr6na3mjc4g36tsjhi98f34d6f6ns76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
